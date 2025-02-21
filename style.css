@@ -34,11 +34,11 @@ li a {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    text-decoration: nome;
+    text-decoration: none;
 }
 
 ul {
-    list-style-type: nome;
+    list-style-type: none;
     display: flex;
     justify-content: space-around;
 }
